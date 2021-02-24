@@ -7,6 +7,7 @@
 
 		<div id='imagem1'> 
 			<img src="img/imagem1_2.jpg">
+			teste
 		</div>
 		
 		<div id='imagem2'> 
